@@ -1,0 +1,44 @@
+h1, h4 {
+    text-align: center;
+}
+
+h3 {
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.column {
+    float: left;
+}
+
+.ingredients {
+    width: 30%;
+}
+
+.steps {
+    width: 70%;
+}
+
+.content {
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.image {
+    text-align: center;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
+
+.caption {
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+p, li, h4 {
+    font-size: 20px;
+}
